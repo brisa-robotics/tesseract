@@ -16,8 +16,8 @@
   <depend>tesseract_common</depend>
   <depend>tesseract_visualization</depend>
 
-  <depend>python</depend>
-  <depend>python-numpy</depend>  
+  <depend>python3</depend>
+  <depend>python3-numpy</depend>  
   <build_depend>swig</build_depend>
   <build_depend>python-dev</build_depend>
   <test_depend>python-pytest</test_depend>
