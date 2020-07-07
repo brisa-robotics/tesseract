@@ -17,8 +17,8 @@
   <depend>tesseract_visualization</depend>
   <depend>tesseract_python</depend>
 
-  <depend>python</depend>
-  <depend>python-numpy</depend>  
+  <depend>python3</depend>
+  <depend>python3-numpy</depend>  
   <test_depend>python-pytest</test_depend>
 
   <export>    
